@@ -1,0 +1,120 @@
+52BDDE37-89F9-480E-AC0D-C7E6FF719ED6:
+  name: Sign
+  description: 
+  count_on_hand: 5
+  available_on: <%= Time.zone.now.to_s(:db) %>
+  permalink: Sign
+A752E478-E326-41D2-8461-0998D1E70C62:
+  name: Tray
+  description: 
+  count_on_hand: 5
+  available_on: <%= Time.zone.now.to_s(:db) %>
+  permalink: Tray
+CC11C433-A702-4B7A-8C84-23A000B260AF:
+  name: Twine
+  description: 
+  count_on_hand: 5
+  available_on: <%= Time.zone.now.to_s(:db) %>
+  permalink: Twine
+A6A6C056-1EF1-433A-AA07-E9F035CF4349:
+  name: Pan
+  description: 
+  count_on_hand: 5
+  available_on: <%= Time.zone.now.to_s(:db) %>
+  permalink: Pan
+6817C02A-397B-475C-A665-9A59A6E95084:
+  name: Belt
+  description: 
+  count_on_hand: 5
+  available_on: <%= Time.zone.now.to_s(:db) %>
+  permalink: Belt
+AE56D81C-8965-40EE-B9D7-7634AB028354:
+  name: Pin
+  description: 
+  count_on_hand: 5
+  available_on: <%= Time.zone.now.to_s(:db) %>
+  permalink: Pin
+B6CC4FE1-7B2B-4787-AFAF-DBAF138E7306:
+  name: Vases
+  description: 
+  count_on_hand: 5
+  available_on: <%= Time.zone.now.to_s(:db) %>
+  permalink: Vases
+E340C508-F6C8-40A9-BD9B-127AE567256A:
+  name: Whisk
+  description: 
+  count_on_hand: 5
+  available_on: <%= Time.zone.now.to_s(:db) %>
+  permalink: Whisk
+51A0E051-C2A1-45EE-9E17-8FC1604A559C:
+  name: Bottles
+  description: 
+  count_on_hand: 5
+  available_on: <%= Time.zone.now.to_s(:db) %>
+  permalink: Bottles
+4022C548-08F5-4FE5-A728-64F6C3AAD3E5:
+  name: Barbecue
+  description: 
+  count_on_hand: 5
+  available_on: <%= Time.zone.now.to_s(:db) %>
+  permalink: Barbecue
+53300CE8-C806-4D07-95DE-D1B591EB3B70:
+  name: Stones
+  description: 
+  count_on_hand: 5
+  available_on: <%= Time.zone.now.to_s(:db) %>
+  permalink: Stones
+161E0911-8915-4D13-9D07-8C3EA30C0C13:
+  name: Frame
+  description: 
+  count_on_hand: 5
+  available_on: <%= Time.zone.now.to_s(:db) %>
+  permalink: Frame
+37DBC5B5-7B58-4441-A123-9C72E8633D0D:
+  name: Sunglasses
+  description: 
+  count_on_hand: 5
+  available_on: <%= Time.zone.now.to_s(:db) %>
+  permalink: Sunglasses
+176F4F99-4125-4E98-B390-0192C87E641E:
+  name: Pots
+  description: 
+  count_on_hand: 5
+  available_on: <%= Time.zone.now.to_s(:db) %>
+  permalink: Pots
+E4242E00-FF17-41E7-A3F7-58C487855860:
+  name: Box
+  description: 
+  count_on_hand: 5
+  available_on: <%= Time.zone.now.to_s(:db) %>
+  permalink: Box
+8FC39028-C200-41B4-8540-E24AD357652F:
+  name: Tie
+  description: 
+  count_on_hand: 5
+  available_on: <%= Time.zone.now.to_s(:db) %>
+  permalink: Tie
+8DCC198C-BE61-4164-9422-5333F4544370:
+  name: Boxes
+  description: 
+  count_on_hand: 5
+  available_on: <%= Time.zone.now.to_s(:db) %>
+  permalink: Boxes
+F10BAF87-1847-4EFD-908D-2F325A858BBB:
+  name: Shoes
+  description: 
+  count_on_hand: 5
+  available_on: <%= Time.zone.now.to_s(:db) %>
+  permalink: Shoes
+C0E8E6AF-5A3E-4A11-9D5E-548F2F3FC085:
+  name: Knife
+  description: 
+  count_on_hand: 5
+  available_on: <%= Time.zone.now.to_s(:db) %>
+  permalink: Knife
+C0DB1D15-3995-467C-A76C-95436A6B8FA3:
+  name: Bag
+  description: 
+  count_on_hand: 5
+  available_on: <%= Time.zone.now.to_s(:db) %>
+  permalink: Bag

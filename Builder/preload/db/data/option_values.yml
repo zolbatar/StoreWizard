@@ -1,0 +1,40 @@
+Red:
+  name: Red
+  presentation: Red
+  position: 1
+  option_type: Colour
+Small:
+  name: Small
+  presentation: Small
+  position: 1
+  option_type: (null)
+Red:
+  name: Red
+  presentation: Red
+  position: 1
+  option_type: Colour
+Medium:
+  name: Medium
+  presentation: Medium
+  position: 1
+  option_type: (null)
+Blue:
+  name: Blue
+  presentation: Blue
+  position: 1
+  option_type: Colour
+Small:
+  name: Small
+  presentation: Small
+  position: 1
+  option_type: (null)
+Yellow:
+  name: Yellow
+  presentation: Yellow
+  position: 1
+  option_type: Colour
+Small:
+  name: Small
+  presentation: Small
+  position: 1
+  option_type: (null)
